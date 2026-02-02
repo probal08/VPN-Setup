@@ -1,4 +1,4 @@
-# Task 8 – VPN Setup and Privacy Analysis (Turbo VPN on BlueStacks)
+#  VPN Setup and Privacy Analysis (Turbo VPN on BlueStacks)
 
 ## 🎯 Objective
 To install and test a VPN, verify IP masking, check encryption behavior, and document how VPN improves online privacy and security.
@@ -97,3 +97,4 @@ Traffic passes through an encrypted tunnel → extra processing.
 ## ✅ Conclusion
 The VPN was successfully installed, connected, tested, and verified using Turbo VPN on BlueStacks.  
 The IP address changed, confirming VPN tunneling and encryption functionality.
+
